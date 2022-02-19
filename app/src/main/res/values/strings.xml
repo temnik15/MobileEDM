@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MobileEDM</string>
+
+    <string name="common_enable_nfc">Включите NFC и поднесите NFC-карту к устройству.</string>
 </resources>
