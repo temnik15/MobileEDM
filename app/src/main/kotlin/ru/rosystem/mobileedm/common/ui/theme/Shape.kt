@@ -1,4 +1,4 @@
-package ru.rosystem.mobileedm.ui.theme
+package ru.rosystem.mobileedm.common.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes

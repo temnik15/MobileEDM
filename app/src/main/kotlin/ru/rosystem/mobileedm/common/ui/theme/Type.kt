@@ -1,4 +1,4 @@
-package ru.rosystem.mobileedm.ui.theme
+package ru.rosystem.mobileedm.common.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
